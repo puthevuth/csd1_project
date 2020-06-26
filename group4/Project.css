@@ -1,11 +1,9 @@
 *{
-    margin: 3px;
+    margin: 5px;
     padding: 0px;
 }
 body{
     background-color: rgb(51, 57, 63);
-}
-#header{
 }
 .logo{
     margin-left: auto;
